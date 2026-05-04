@@ -1,0 +1,957 @@
+{
+  "source": "https://www.lubylab.co.kr/",
+  "brand": {
+    "kr": "LUBYLAB (루비랩)",
+    "en": "LUBYLAB",
+    "zh": "LUBYLAB (露比实验室)"
+  },
+  "crawled_at": "2026-05-04",
+  "currency": "KRW",
+  "products": [
+    {
+      "key": "NAD",
+      "url": "https://www.lubylab.co.kr/shop_view/?idx=45",
+      "idx": 45,
+      "name": {
+        "kr": "엔에이디 플러스 지에프 부스터 크림",
+        "en": "NAD+ GF Booster Cream",
+        "zh": "NAD+ 生长因子焕活精华霜"
+      },
+      "price": "60,000원",
+      "loyalty_points": "3,000 포인트",
+      "status": {
+        "kr": "품절",
+        "en": "SOLDOUT",
+        "zh": "已售罄"
+      },
+      "exclusive": {
+        "kr": "레디영 약국 단독 판매 제품",
+        "en": "Exclusively sold at Ledyoung Pharmacy",
+        "zh": "Ledyoung 药局独家销售产品"
+      },
+      "description": {
+        "kr": "NAD+와 성장인자(Growth Factor)를 담은 부스터 크림",
+        "en": "Booster cream formulated with NAD+ and Growth Factor",
+        "zh": "含 NAD+ 与生长因子的焕活精华霜"
+      },
+      "main_ingredients": [
+        {
+          "kr": "NAD+",
+          "en": "NAD+",
+          "zh": "NAD+ (烟酰胺腺嘌呤二核苷酸)"
+        },
+        {
+          "kr": "성장인자",
+          "en": "Growth Factor",
+          "zh": "生长因子"
+        }
+      ],
+      "shipping": {
+        "kr": "택배 · 기본 무료",
+        "en": "Standard delivery · Free shipping",
+        "zh": "快递 · 基本免运费"
+      },
+      "delivery_note": {
+        "kr": "오늘출발 상품 (오늘 12:00까지 결제시)",
+        "en": "Same-day shipping (orders paid before 12:00 today)",
+        "zh": "当日发货商品 (今日 12:00 前付款)"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/03e1471cf9136.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260409/03e1471cf9136.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/18b0798576e2e.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/0aa0ed5311b55.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/a3119c465c2c3.jpg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260409/dc2a509b2875e.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/9a2d29a2dac20.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/1df3d51352121.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/f096ab5f7c6de.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ccdfb8b8eed1e.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/4fb5590c1941a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/7a241a6596c14.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/e09d04afe5d75.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/57a7d43a95057.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a2d425c5c3d0a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/5053eedfa6016.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/bd658e1d0ddf9.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a89946cf66893.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/2bfcc5041cd8b.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/08e9978a03099.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ac67391beb062.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/5894b42195a33.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/5693a417b01d2.jpg?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/1df3d51352121.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/f096ab5f7c6de.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ccdfb8b8eed1e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/4fb5590c1941a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/7a241a6596c14.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/e09d04afe5d75.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57a7d43a95057.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a2d425c5c3d0a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/5053eedfa6016.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/bd658e1d0ddf9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a89946cf66893.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/2bfcc5041cd8b.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/08e9978a03099.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ac67391beb062.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/5894b42195a33.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/5693a417b01d2.jpg"
+        ]
+      }
+    },
+    {
+      "key": "Cica",
+      "url": "https://www.lubylab.co.kr/shop_view/?idx=38",
+      "idx": 38,
+      "name": {
+        "kr": "듀얼 피지에이 하이드로 시카 앰플",
+        "en": "Dual PGA Hydro Cica Ampoule",
+        "zh": "双重 PGA 水润积雪草安瓶"
+      },
+      "price": "35,000원",
+      "loyalty_points": "1,750 포인트",
+      "status": {
+        "kr": "BEST · HOT",
+        "en": "BEST · HOT",
+        "zh": "热销 · 人气"
+      },
+      "category": {
+        "kr": "에센스/앰플",
+        "en": "Essence / Ampoule",
+        "zh": "精华液 / 安瓶"
+      },
+      "key_benefits": [
+        {
+          "kr": "빠른 진정 케어",
+          "en": "Fast soothing care",
+          "zh": "快速舒缓护理"
+        },
+        {
+          "kr": "수분 보충",
+          "en": "Hydration replenishment",
+          "zh": "补水保湿"
+        },
+        {
+          "kr": "미백 & 주름 개선",
+          "en": "Whitening & wrinkle improvement",
+          "zh": "美白与抗皱"
+        }
+      ],
+      "main_feature": {
+        "kr": "시카 컴플렉스가 자극으로 예민해진 피부를 진정 케어",
+        "en": "Cica Complex soothes skin sensitized by external irritation",
+        "zh": "积雪草复合物舒缓因外界刺激而敏感的肌肤"
+      },
+      "main_ingredients": [
+        {
+          "kr": "듀얼 PGA (폴리감마글루탐산)",
+          "en": "Dual PGA (Polyglutamic Acid)",
+          "zh": "双重 PGA (聚谷氨酸)"
+        },
+        {
+          "kr": "시카 컴플렉스",
+          "en": "Cica Complex",
+          "zh": "积雪草复合物"
+        }
+      ],
+      "shipping": {
+        "kr": "택배 · 기본 무료",
+        "en": "Standard delivery · Free shipping",
+        "zh": "快递 · 基本免运费"
+      },
+      "delivery_note": {
+        "kr": "오늘 12:00까지 결제시 당일 발송 가능",
+        "en": "Same-day dispatch when paid before 12:00",
+        "zh": "今日 12:00 前付款可当日发货"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/8ff75c891a9fe.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260409/8ff75c891a9fe.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/aa4449ff9c196.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/20ea95254d474.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/9bb3ec6c8cca9.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/3fc3a3cbd04e5.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/668d94710836b.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/facfc7a94620c.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/6b4a4c930651a.jpg",
+          "https://cdn.imweb.me/thumbnail/20260313/376abc54583ce.jpg",
+          "https://cdn.imweb.me/thumbnail/20260313/5b9fafb39dd55.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260313/9ffdde4f56f96.jpg",
+          "https://cdn.imweb.me/thumbnail/20260313/57af275e4e536.jpg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260409/9273a4e1b5b25.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/1a27cf7c0e516.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/df830417d6fc3.jpg",
+          "https://cdn.imweb.me/thumbnail/20260119/7e77bd154410a.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/bdb1c86eaeb04.jpg",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ec0fceb76c909.jpeg",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/91b9a6adb2dbd.png?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/809bbae9398d1.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/e7abbd36e4bb0.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/2d03fcacc3c75.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/31cde7fcb4a40.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/d0943d2111073.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/b8bd0dbaf8c8e.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/5e614bd6005dd.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/306f2e5f7b5e8.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/f1b5227c92842.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ca5fba03bcbbf.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ff2ab34dca7b6.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/3f804b20556ac.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/0b9227cf1b3f3.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/5fe8130d1851a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/086dc5b834e32.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/57dbdf524c089.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/fc7390af82e6e.jpg?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/bdb1c86eaeb04.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/91b9a6adb2dbd.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/809bbae9398d1.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/e7abbd36e4bb0.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/2d03fcacc3c75.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/31cde7fcb4a40.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d0943d2111073.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/b8bd0dbaf8c8e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/5e614bd6005dd.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/306f2e5f7b5e8.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/f1b5227c92842.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ca5fba03bcbbf.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ff2ab34dca7b6.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/3f804b20556ac.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0b9227cf1b3f3.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/5fe8130d1851a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/086dc5b834e32.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57dbdf524c089.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/fc7390af82e6e.jpg"
+        ]
+      }
+    },
+    {
+      "key": "NAD Sculp Matrix",
+      "url": "https://www.lubylab.co.kr/shop_view/?idx=46",
+      "idx": 46,
+      "name": {
+        "kr": "스컬프 매트릭스 앰플",
+        "en": "Sculp Matrix Ampoule",
+        "zh": "塑型矩阵安瓶"
+      },
+      "price": "60,000원",
+      "loyalty_points": "3,000 포인트",
+      "category": {
+        "kr": "앰플/에센스",
+        "en": "Ampoule / Essence",
+        "zh": "安瓶 / 精华液"
+      },
+      "key_benefits": [
+        {
+          "kr": "볼륨 리프팅",
+          "en": "Volume lifting",
+          "zh": "丰盈紧致提拉"
+        },
+        {
+          "kr": "탄력 강화",
+          "en": "Elasticity enhancement",
+          "zh": "增强肌肤弹力"
+        },
+        {
+          "kr": "피부 결 정돈",
+          "en": "Skin texture refinement",
+          "zh": "改善肌肤纹理"
+        }
+      ],
+      "main_feature": {
+        "kr": "피부 기반(foundation)을 강화하여 밀도와 탄력을 채워주는 앰플",
+        "en": "Ampoule that strengthens the skin's foundation, filling it with density and elasticity",
+        "zh": "强化肌肤底层支撑结构,填充肌肤密度与弹力的安瓶"
+      },
+      "shipping": {
+        "kr": "택배 · 기본 무료",
+        "en": "Standard delivery · Free shipping",
+        "zh": "快递 · 基本免运费"
+      },
+      "delivery_note": {
+        "kr": "오늘출발 (평일 12:00까지 결제시)",
+        "en": "Same-day shipping (weekdays, paid before 12:00)",
+        "zh": "当日发货 (工作日 12:00 前付款)"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/9b7dd3954c96b.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260409/9b7dd3954c96b.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/7640c13178719.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/2abbbf3b74c66.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/228d554e517f0.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/567171c9cd182.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/beda2e7291f50.jpg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260409/ad9238861e420.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/3f681b3d2fa8d.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/f18290a90aa82.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/7e374c6da2fab.jpeg",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/798b008a7093d.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/dc196ed5c4712.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/b2ded6fcf6328.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/7c99092ad0460.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/e9277c541d5e7.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/93cb5b30af17f.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/8513e53be1101.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/58fdcb2c24174.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/2ef144d9fcee0.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/b10c87a184eb9.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/b1e799bf176ee.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/c3c7237d6f906.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/84bd46eb4a4d8.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a3ea6d6fb3544.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/0767fa306ee0d.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/8964c374b81e0.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/2440dc658e9a5.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/8ded07fed46d9.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/dc7c76c2a425b.jpg?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/7e374c6da2fab.jpeg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/798b008a7093d.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/dc196ed5c4712.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/b2ded6fcf6328.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/7c99092ad0460.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/e9277c541d5e7.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/93cb5b30af17f.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8513e53be1101.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/58fdcb2c24174.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/2ef144d9fcee0.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/b10c87a184eb9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/b1e799bf176ee.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/c3c7237d6f906.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/84bd46eb4a4d8.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a3ea6d6fb3544.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0767fa306ee0d.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8964c374b81e0.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/2440dc658e9a5.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8ded07fed46d9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/dc7c76c2a425b.jpg"
+        ]
+      }
+    },
+    {
+      "key": "Pore Peeling Pad",
+      "url": "https://www.lubylab.co.kr/shop_view/?idx=31",
+      "idx": 31,
+      "name": {
+        "kr": "포어 필링 패드",
+        "en": "Pore Peeling Pad",
+        "zh": "毛孔去角质棉片"
+      },
+      "price": "28,000원",
+      "loyalty_points": "1,400 포인트",
+      "category": {
+        "kr": "패드형 스킨케어",
+        "en": "Pad-type skincare",
+        "zh": "棉片型护肤产品"
+      },
+      "key_benefits": [
+        {
+          "kr": "각질 제거",
+          "en": "Exfoliation / dead skin removal",
+          "zh": "去除角质"
+        },
+        {
+          "kr": "복합 진정",
+          "en": "Multi-soothing care",
+          "zh": "复合舒缓"
+        },
+        {
+          "kr": "보습막 케어",
+          "en": "Moisture barrier care",
+          "zh": "保湿屏障护理"
+        },
+        {
+          "kr": "보습 케어",
+          "en": "Hydration",
+          "zh": "保湿护理"
+        }
+      ],
+      "description": {
+        "kr": "각질•요철은 정돈, 진정과 수분을 남기는 데일리 루틴 패드",
+        "en": "Daily routine pad that smooths bumps and rough texture while leaving skin soothed and hydrated",
+        "zh": "日常护理棉片,平滑角质与肌肤凹凸,同时舒缓并保留水润感"
+      },
+      "shipping": {
+        "kr": "택배 · 기본 무료",
+        "en": "Standard delivery · Free shipping",
+        "zh": "快递 · 基本免运费"
+      },
+      "delivery_note": {
+        "kr": "오늘출발 상품 (평일 12:00까지)",
+        "en": "Same-day shipping (weekdays, before 12:00)",
+        "zh": "当日发货商品 (工作日 12:00 前)"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/724a8b867571e.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260409/724a8b867571e.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/fe2d2915a494b.jpg",
+          "https://cdn.imweb.me/thumbnail/20250819/8ae1fc3977173.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/d6133c0895dd0.jpg",
+          "https://cdn.imweb.me/thumbnail/20250819/99f5c68e79e6f.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/757501099a45e.jpg",
+          "https://cdn.imweb.me/thumbnail/20250819/5bc8b2492b63c.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/cf8f5507d747f.jpg",
+          "https://cdn.imweb.me/thumbnail/20250819/6d9b106cafe3f.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/d666f27ed6516.jpg",
+          "https://cdn.imweb.me/thumbnail/20260226/e156bb4f12c4b.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260313/e2b6f2127b5e8.jpg",
+          "https://cdn.imweb.me/thumbnail/20260226/31d920ea3b00f.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260313/5e099d437ebf1.jpg",
+          "https://cdn.imweb.me/thumbnail/20260226/351b3d533bb4f.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260226/40074b71d6e01.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260226/6585b14667bd7.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260226/adb3fe79a9e6e.jpeg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260409/9c6ac0162d658.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/85b4f7749da22.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/dc6c8a74b409b.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/583ab9273e8aa.jpg",
+          "https://cdn.imweb.me/thumbnail/20250612/41b6d8d1e4080.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/4e315dddb6a16.jpeg",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ce2ed4b75361c.jpeg",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/2308db37f128f.png?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/49f141cc25f2d.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/d55bd47f61790.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/59e8a7368e7cd.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/c4a7c02c7f90c.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/4fbb5a315b8fe.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/1b4fffce13d63.png?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/c03bb6e5ec0e9.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/5823cb685fbd8.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/d4684897f3289.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/8f5479b45f882.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/3abb1d097413a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/39ade8fd6fb2d.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/1ba2a14f86cd6.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/eb3d8bda6ac53.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/facbf178ac3cf.jpg?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/2308db37f128f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/49f141cc25f2d.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d55bd47f61790.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59e8a7368e7cd.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/c4a7c02c7f90c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/4fbb5a315b8fe.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/1b4fffce13d63.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/c03bb6e5ec0e9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/5823cb685fbd8.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d4684897f3289.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8f5479b45f882.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/3abb1d097413a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/39ade8fd6fb2d.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/1ba2a14f86cd6.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/eb3d8bda6ac53.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/facbf178ac3cf.jpg"
+        ]
+      }
+    },
+    {
+      "key": "Hyper Spishot",
+      "url": "https://www.lubylab.co.kr/beauty/?idx=33",
+      "idx": 33,
+      "name": {
+        "kr": "하이퍼 루비스피샷",
+        "en": "Hyper Lubyspishot (Hyper Ruby Spishot)",
+        "zh": "Hyper 露比晶刺安瓶"
+      },
+      "price": "60,000원",
+      "loyalty_points": "3,000 포인트",
+      "key_benefits": [
+        {
+          "kr": "보습 케어",
+          "en": "Hydration care",
+          "zh": "保湿护理"
+        },
+        {
+          "kr": "보습막 강화",
+          "en": "Moisture barrier strengthening",
+          "zh": "强化保湿屏障"
+        },
+        {
+          "kr": "주름 개선",
+          "en": "Wrinkle improvement",
+          "zh": "改善皱纹"
+        },
+        {
+          "kr": "피부결 정돈",
+          "en": "Skin texture refinement",
+          "zh": "改善肌肤纹理"
+        }
+      ],
+      "key_feature": {
+        "kr": "4세대 혼합 스피큘로 자극은 줄이고 맑고 화사한 광채 제공",
+        "en": "4th-generation hybrid spicule technology — reduces irritation while delivering bright, luminous radiance",
+        "zh": "第 4 代复合晶刺技术,降低刺激同时呈现明亮通透光泽"
+      },
+      "shipping": {
+        "kr": "택배 · 기본 무료",
+        "en": "Standard delivery · Free shipping",
+        "zh": "快递 · 基本免运费"
+      },
+      "delivery_note": {
+        "kr": "오늘출발 상품 (평일 12:00까지 결제시)",
+        "en": "Same-day shipping (weekdays, paid before 12:00)",
+        "zh": "当日发货商品 (工作日 12:00 前付款)"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/aa9376d140db9.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260409/aa9376d140db9.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/cdb0b190be8aa.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/af8db4dc2c207.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/c9b923e0a4f38.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/d09116aeed6ac.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/2de4b2a65849a.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/39955d793f8c3.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/55c71311fa2a4.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/d82152c2ec4d2.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/a5ca65129b880.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/9f1aa6af68f36.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/759057df5537a.jpg",
+          "https://cdn.imweb.me/thumbnail/20260326/eb20054b93672.jpg",
+          "https://cdn.imweb.me/thumbnail/20260326/ad1aee861b8c5.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260326/009871ae236fd.jpeg",
+          "https://cdn.imweb.me/thumbnail/20260326/4707f640f2c42.jpeg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260409/a3768160ddd96.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/76bc71c77ad13.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/6be763fe22120.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/9612f12634661.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/2c731689a13dc.jpg",
+          "https://cdn.imweb.me/thumbnail/20250901/be2eaf1096592.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/51c78c2d9c22d.jpg",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/beadf43e02456.png?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/72503701b315f.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/0c18cc536ba91.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a13a346de7875.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/1dcd1c64fa1d3.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/4f8d4902a441a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/7cdc8be7398d0.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/7a93edf75d8fc.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/41254e4c25c7d.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/d42863899f3d2.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ef4b63b497648.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/f7d942c1a3969.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/7a1264e780679.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ed0ca9ae3c77a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/f2fb4cdc76427.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/d6f3306600b08.jpg?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/51c78c2d9c22d.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/beadf43e02456.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/72503701b315f.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0c18cc536ba91.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a13a346de7875.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/1dcd1c64fa1d3.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/4f8d4902a441a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/7cdc8be7398d0.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/7a93edf75d8fc.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/41254e4c25c7d.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d42863899f3d2.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ef4b63b497648.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/f7d942c1a3969.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/7a1264e780679.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ed0ca9ae3c77a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/f2fb4cdc76427.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d6f3306600b08.jpg"
+        ]
+      }
+    },
+    {
+      "key": "Vitamin C Ball",
+      "url": "https://www.lubylab.co.kr/beauty/?idx=48",
+      "idx": 48,
+      "name": {
+        "kr": "크리스탈 에센스 파우더 볼",
+        "en": "Crystal Essence Powder Ball",
+        "zh": "水晶精华粉球"
+      },
+      "price": "36,000원",
+      "loyalty_points": "1,800 포인트",
+      "key_benefits": [
+        {
+          "kr": "미백",
+          "en": "Whitening / brightening",
+          "zh": "美白提亮"
+        },
+        {
+          "kr": "광채 증진",
+          "en": "Boosting radiance and glow",
+          "zh": "提升光泽感"
+        },
+        {
+          "kr": "잡티•기미 케어",
+          "en": "Care for dark spots and pigmentation",
+          "zh": "改善色斑与暗沉"
+        }
+      ],
+      "main_ingredients": [
+        {
+          "kr": "순수 비타민 C",
+          "en": "Pure Vitamin C",
+          "zh": "纯维生素 C"
+        },
+        {
+          "kr": "나이아신아마이드",
+          "en": "Niacinamide",
+          "zh": "烟酰胺"
+        }
+      ],
+      "main_feature": {
+        "kr": "순수 비타민 C와 나이아신아마이드가 담긴 파우더 볼 타입의 브라이트닝 제품",
+        "en": "Powder-ball type brightening product containing pure Vitamin C and Niacinamide",
+        "zh": "含纯维生素 C 与烟酰胺的粉球型美白亮肤产品"
+      },
+      "shipping": {
+        "kr": "택배 · 기본 무료",
+        "en": "Standard delivery · Free shipping",
+        "zh": "快递 · 基本免运费"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/39db771337ede.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260409/39db771337ede.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/727d0786adeec.jpg",
+          "https://cdn.imweb.me/thumbnail/20260403/f75d90bb4e980.jpg",
+          "https://cdn.imweb.me/thumbnail/20260403/764f48d9a4722.jpg",
+          "https://cdn.imweb.me/thumbnail/20260403/2fbef5b64587c.jpg",
+          "https://cdn.imweb.me/thumbnail/20260403/2a72d53c0ccda.jpg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260409/ff00fbdd6c97f.jpg",
+          "https://cdn.imweb.me/thumbnail/20260403/1a70d927f8622.jpg",
+          "https://cdn.imweb.me/thumbnail/20260403/9c92ac189422c.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/0601755c9e370.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ad179e4f1c8cd.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/943ed04d39a12.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/984e67dfbf6aa.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/0fce7f965de8c.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/633191de9015c.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/65be62785a8a6.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/d663ae2cbb7df.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/8a62843260f2b.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/38cefdb8e8852.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/c50e0c2709fad.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/7c0fb662f930a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/c86fc884891ea.jpg?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0601755c9e370.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ad179e4f1c8cd.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/943ed04d39a12.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/984e67dfbf6aa.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fce7f965de8c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/633191de9015c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/65be62785a8a6.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d663ae2cbb7df.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8a62843260f2b.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/38cefdb8e8852.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/c50e0c2709fad.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/7c0fb662f930a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/c86fc884891ea.jpg"
+        ]
+      }
+    },
+    {
+      "key": "Glutathione Ppuder",
+      "url": "https://www.lubylab.co.kr/beauty/?idx=39",
+      "idx": 39,
+      "name": {
+        "kr": "글루타치온 콜라겐 파우더 앰플",
+        "en": "Glutathione Collagen Powder Ampoule",
+        "zh": "谷胱甘肽胶原蛋白粉末安瓶"
+      },
+      "price": "30,000원",
+      "loyalty_points": "1,500 포인트",
+      "key_benefits": [
+        {
+          "kr": "칙칙한 안색 맑게 가꾸기",
+          "en": "Brightening dull complexion",
+          "zh": "改善暗沉肤色,提亮肤色"
+        },
+        {
+          "kr": "피부 탄력 강화",
+          "en": "Strengthening skin elasticity",
+          "zh": "强化肌肤弹力"
+        }
+      ],
+      "main_ingredients": [
+        {
+          "kr": "글루타치온",
+          "en": "Glutathione",
+          "zh": "谷胱甘肽"
+        },
+        {
+          "kr": "저분자 콜라겐",
+          "en": "Low molecular Collagen",
+          "zh": "低分子胶原蛋白"
+        },
+        {
+          "kr": "나이아신아마이드",
+          "en": "Niacinamide",
+          "zh": "烟酰胺"
+        },
+        {
+          "kr": "7종 보습 레이어",
+          "en": "7-type moisturizing layer",
+          "zh": "7 重保湿层"
+        }
+      ],
+      "main_feature": {
+        "kr": "파우더 형태로 농축된 앰플",
+        "en": "Powder-form concentrated ampoule",
+        "zh": "粉末状浓缩安瓶"
+      },
+      "shipping": {
+        "kr": "무료 배송",
+        "en": "Free shipping",
+        "zh": "免运费"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/a82556fdc138b.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260409/a82556fdc138b.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/2e8cf0fa2e513.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/23904552f3e79.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/032d03763a57e.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/0f6b72807b6b1.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/629719d39edc5.jpg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260409/721a7f186024e.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/02107383d9228.jpg",
+          "https://cdn.imweb.me/thumbnail/20260409/a9c1478f3b1dc.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a90c07e411902.png?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a8e18dcdd1b79.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/e0c6e0522142b.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/f560240717ba6.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/ec7c255370cae.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/38d6846a432ab.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/35d526d2144f1.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/0da5c5ec3309a.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/1005654b50370.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/dcead047701bc.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/2bc278855cb65.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/dc7b6808cd58e.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a4d95ee5281ec.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/a555f52cb4e33.jpg?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a90c07e411902.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a8e18dcdd1b79.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/e0c6e0522142b.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/f560240717ba6.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/ec7c255370cae.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/38d6846a432ab.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35d526d2144f1.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0da5c5ec3309a.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/1005654b50370.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/dcead047701bc.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/2bc278855cb65.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/dc7b6808cd58e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a4d95ee5281ec.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a555f52cb4e33.jpg"
+        ]
+      }
+    },
+    {
+      "key": "Retinal Shot",
+      "url": "https://www.lubylab.co.kr/shop_view/?idx=54",
+      "idx": 54,
+      "name": {
+        "kr": "레티날 듀얼 액티브 스팟 크림",
+        "en": "Retinal Dual Active Spot Cream",
+        "zh": "视黄醛双效活性点护霜"
+      },
+      "price": "35,000원",
+      "loyalty_points": "1,750 포인트",
+      "category": {
+        "kr": "스팟 크림",
+        "en": "Spot Cream",
+        "zh": "局部修护霜"
+      },
+      "main_ingredients": [
+        {
+          "kr": "레티날 (레티날데하이드)",
+          "en": "Retinal (Retinaldehyde)",
+          "zh": "视黄醛 (Retinaldehyde)"
+        }
+      ],
+      "key_benefits": [
+        {
+          "kr": "주름 개선",
+          "en": "Wrinkle improvement",
+          "zh": "改善皱纹"
+        },
+        {
+          "kr": "스팟 케어",
+          "en": "Targeted spot care",
+          "zh": "局部精准护理"
+        }
+      ],
+      "shipping": {
+        "kr": "택배 · 기본 무료",
+        "en": "Standard delivery · Free shipping",
+        "zh": "快递 · 基本免运费"
+      },
+      "images": {
+        "main": "https://cdn-optimized.imweb.me/thumbnail/20260429/afaeb3c552e1a.jpg?w=1024",
+        "gallery": [
+          "https://cdn.imweb.me/thumbnail/20260429/afaeb3c552e1a.jpg",
+          "https://cdn.imweb.me/thumbnail/20260429/14eda86b82639.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/ae6bd6df79937.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/cabf4e95ffe0e.jpg",
+          "https://cdn.imweb.me/thumbnail/20260429/cacb335f8e7cf.jpg",
+          "https://cdn.imweb.me/thumbnail/20260429/b0024d92fb707.jpg",
+          "https://cdn.imweb.me/thumbnail/20240226/422b6bc3e8ce5.png",
+          "https://cdn.imweb.me/thumbnail/20240226/c3865666e2dfe.png",
+          "https://cdn.imweb.me/thumbnail/20240226/41d5d4c7dc559.png",
+          "https://cdn.imweb.me/thumbnail/20240226/8ed29790072c1.png",
+          "https://cdn.imweb.me/thumbnail/20260428/ac7aa80fc21f1.jpg",
+          "https://cdn.imweb.me/thumbnail/20260408/b77b2be7606f5.jpg",
+          "https://cdn.imweb.me/thumbnail/20260428/39bbdf698b3af.jpg"
+        ],
+        "detail_banners": [
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/db848d18083ce.jpg?w=1920",
+          "https://cdn-optimized.imweb.me/upload/S20240214aa6db7f318dd8/aba3c96e0cfbd.png?w=1920",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/53a57a4dd685c.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/57c55bcd8c2af.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0072f0a2eb16e.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/70c35d5ff9b28.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/a84f3fec64416.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/8c8d2a4c41e9f.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/d1ea020f7e832.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/59c1f61dcfb11.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/35057385c91c9.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/0fab2701149d6.png",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/db848d18083ce.jpg",
+          "https://cdn.imweb.me/upload/S20240214aa6db7f318dd8/aba3c96e0cfbd.png"
+        ]
+      }
+    }
+  ],
+  "notes": [
+    {
+      "kr": "상세 정보(용량, 전성분, 사용법)는 상세 페이지에서 이미지 형태로 제공되어 HTML로 추출되지 않았습니다.",
+      "en": "Detailed info (volume, full ingredients, usage instructions) is provided as images on the detail page and could not be extracted from HTML.",
+      "zh": "详细信息 (容量、完整成分、使用方法) 在详情页中以图片形式提供,无法通过 HTML 提取。"
+    },
+    {
+      "kr": "'Vitamin C Ball'은 사이트 내에서 순수 비타민 C가 담긴 유일한 파우더 볼 제품인 'Crystal Essence Powder Ball (idx=48)'에 매칭되었습니다.",
+      "en": "'Vitamin C Ball' has been matched to 'Crystal Essence Powder Ball (idx=48)', the only powder-ball product on the site containing pure Vitamin C.",
+      "zh": "'Vitamin C Ball' 已对应到网站内唯一含纯维生素 C 的粉球产品 'Crystal Essence Powder Ball (idx=48)'。"
+    },
+    {
+      "kr": "NAD 제품(idx=45)은 현재 SOLDOUT 상태이며 레디영 약국 단독 판매 제품입니다.",
+      "en": "The NAD product (idx=45) is currently SOLDOUT and exclusively distributed through Ledyoung Pharmacy.",
+      "zh": "NAD 产品 (idx=45) 目前已售罄,且为 Ledyoung 药局独家销售产品。"
+    }
+  ]
+}
