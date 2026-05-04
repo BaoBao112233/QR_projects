@@ -20,6 +20,8 @@ def page(product) -> str:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>LUBYLAB</title>
+<link rel="icon" type="image/png" href="../assets/favicon.png">
+<link rel="apple-touch-icon" href="../assets/favicon.png">
 <link rel="stylesheet" href="../assets/styles.css">
 <script src="../assets/i18n.js" defer></script>
 <script>window.PRODUCT = {json_blob};</script>
@@ -51,6 +53,8 @@ def index_page(products) -> str:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>LUBYLAB — Products</title>
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/favicon.png">
 <link rel="stylesheet" href="assets/styles.css">
 <script src="assets/i18n.js" defer></script>
 <script>window.PRODUCTS = {cards_json};</script>
@@ -73,7 +77,7 @@ document.addEventListener('DOMContentLoaded', async () => {{
   await LUBY.ensureLocale();
   document.title = LUBY.t('indexTitle') + ' — LUBYLAB';
   const tb = document.querySelector('.topbar');
-  tb.innerHTML = '<a href="index.html" class="brand">LUBYLAB</a><div class="lang-switch-wrap"></div>';
+  tb.innerHTML = '<a href="index.html" class="brand"><img src="assets/logo.png" alt="LUBYLAB" class="brand-logo"></a><div class="lang-switch-wrap"></div>';
   LUBY.renderLangSwitch(tb.querySelector('.lang-switch-wrap'), () => location.reload());
   document.getElementById('idx-title').textContent = LUBY.t('indexTitle');
   document.getElementById('idx-sub').textContent = LUBY.t('indexSub');

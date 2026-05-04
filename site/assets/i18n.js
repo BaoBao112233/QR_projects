@@ -1,6 +1,6 @@
 // Locale dictionary + helpers
 const LOCALE_KEY = 'lubylab_locale';
-const SUPPORTED = ['en', 'kr', 'zh'];
+const SUPPORTED = ['en', 'kr', 'zh', 'ja'];
 const DEFAULT_LOCALE = 'en';
 
 const T = {
@@ -87,6 +87,34 @@ const T = {
     cta: '立即购买',
     soldOut: '已售罄',
     changeLanguage: '语言',
+  },
+  ja: {
+    pickerTitle: '言語を選択してください',
+    pickerSub: '商品情報を表示する言語を選択してください',
+    langEn: 'English',
+    langKr: '한국어',
+    langZh: '中文',
+    brandTagline: 'プレミアム K-ビューティー',
+    indexTitle: 'LUBYLAB 製品',
+    indexSub: '代表的なコレクションをご覧ください',
+    backToProducts: '← 全製品',
+    price: '価格',
+    points: 'ポイント',
+    status: 'ステータス',
+    category: 'カテゴリー',
+    benefits: '主な効果',
+    ingredients: '主成分',
+    feature: '特徴',
+    description: '製品説明',
+    shipping: '配送',
+    delivery: '配送案内',
+    exclusive: '独占販売',
+    detailHeading: '製品詳細',
+    showMore: 'もっと見る',
+    showLess: '閉じる',
+    cta: '今すぐ購入',
+    soldOut: '売り切れ',
+    changeLanguage: '言語',
   }
 };
 
@@ -144,6 +172,10 @@ function ensureLocale() {
             <span class="lang-flag">🇨🇳</span>
             <span class="lang-name">中文 (Chinese)</span>
           </button>
+          <button class="lang-btn" data-loc="ja">
+            <span class="lang-flag">🇯🇵</span>
+            <span class="lang-name">日本語 (Japanese)</span>
+          </button>
         </div>
       </div>
     `;
@@ -167,6 +199,7 @@ function renderLangSwitch(container, onChange) {
       <button data-loc="en" ${cur === 'en' ? 'class="active"' : ''}>EN</button>
       <button data-loc="kr" ${cur === 'kr' ? 'class="active"' : ''}>KR</button>
       <button data-loc="zh" ${cur === 'zh' ? 'class="active"' : ''}>中</button>
+      <button data-loc="ja" ${cur === 'ja' ? 'class="active"' : ''}>日</button>
     </div>
   `;
   container.addEventListener('click', (e) => {

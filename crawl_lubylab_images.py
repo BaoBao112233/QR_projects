@@ -6,7 +6,8 @@ from playwright.sync_api import sync_playwright
 
 PRODUCTS = [
     {"key": "NAD",                "url": "https://www.lubylab.co.kr/shop_view/?idx=45"},
-    {"key": "Cica",               "url": "https://www.lubylab.co.kr/shop_view/?idx=38"},
+    {"key": "Cica Ampoule",       "url": "https://www.lubylab.co.kr/shop_view/?idx=38"},
+    {"key": "Cica Cream",         "url": "https://www.lubylab.co.kr/shop_view/?idx=37"},
     {"key": "NAD Sculp Matrix",   "url": "https://www.lubylab.co.kr/shop_view/?idx=46"},
     {"key": "Pore Peeling Pad",   "url": "https://www.lubylab.co.kr/shop_view/?idx=31"},
     {"key": "Hyper Spishot",      "url": "https://www.lubylab.co.kr/beauty/?idx=33"},

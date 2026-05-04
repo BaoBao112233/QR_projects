@@ -93,7 +93,8 @@ img { display: block; max-width: 100%; height: auto; }
   padding: 14px 32px;
   display: flex; align-items: center; justify-content: space-between;
 }
-.brand { font-weight: 700; letter-spacing: 3px; font-size: 18px; }
+.brand { font-weight: 700; letter-spacing: 3px; font-size: 18px; display: inline-flex; align-items: center; }
+.brand-logo { height: 22px; width: auto; display: block; }
 .lang-switch {
   display: flex; gap: 4px;
   background: #f3f0ea;
@@ -154,6 +155,14 @@ img { display: block; max-width: 100%; height: auto; }
   padding: 4px 12px;
   border-radius: 999px;
   margin-bottom: 16px;
+}
+.info .badge-pharmacy {
+  background: #3561c0;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  padding: 8px 18px;
+  font-weight: 600;
 }
 .info h1 {
   font-size: 36px; line-height: 1.25;
