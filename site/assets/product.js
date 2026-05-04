@@ -73,7 +73,7 @@ function render(p) {
   const main = document.querySelector('.product-main');
   const heroImg = (p.images && p.images.main) || '';
 
-  const detailBanners = (p.images && p.images.detail_banners) || [];
+  const detailBanners = LUBY.tr((p.images && p.images.detail_banners) || []);
 
   main.innerHTML = `
     <section class="hero">
