@@ -1,3 +1,18 @@
+// Logo / brand-asset URLs that appear on every page and should be hidden from product galleries
+const LOGO_BLOCKLIST = [
+  '1a7a3fc45bf15',
+  '81cc7e1db6a23',
+  'default_profile',
+  'kakao',
+  'npay_logo',
+  'vendor-cdn.imweb.me',
+  '/thumbnail/20240226/',  // brand badge "L" logos
+];
+function isLogo(url) {
+  if (!url) return true;
+  return LOGO_BLOCKLIST.some(p => url.includes(p));
+}
+
 // Approximate FX rates (KRW -> target). Update if needed.
 const FX = {
   USD: 1 / 1360,   // 1 USD ≈ 1,360 KRW
@@ -63,7 +78,9 @@ function render(p) {
   const description = p.description ? `<div class="description">${LUBY.tr(p.description)}</div>` : '';
   const feature = p.main_feature || p.key_feature;
 
-  const gallery = [p.images.main, ...(p.images.gallery || [])].filter(Boolean);
+  const gallery = [p.images.main, ...(p.images.gallery || [])]
+    .filter(Boolean)
+    .filter(u => !isLogo(u));
   const thumbs = gallery.slice(0, 10);
 
   main.innerHTML = `
