@@ -58,7 +58,20 @@
       },
       "images": {
         "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/03e1471cf9136.jpg?w=1024",
-        "detail_banners" :{}
+        "detail_banners": {
+          "en": [
+            "../data/NAD/EN/NADGF_Booster_Cream_EN_p1.png",
+            "../data/NAD/EN/NADGF_Booster_Cream_EN_p2.png"
+          ],
+          "zh": [
+            "../data/NAD/CN/NADGF_Booster_Cream_ZH_p1.png",
+            "../data/NAD/CN/NADGF_Booster_Cream_ZH_p2.png"
+          ],
+          "ja": [
+            "../data/NAD/JP/NADGF_Booster_Cream_JP_p1.png",
+            "../data/NAD/JP/NADGF_Booster_Cream_JP_p2.png"
+          ]
+        }
       }
     },
     {
@@ -128,7 +141,24 @@
       },
       "images": {
         "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/8ff75c891a9fe.jpg?w=1024",
-        "detail_banners" :{}
+        "detail_banners" :{
+          "en": [
+            "../data/CicaAmpoule/EN/LubyLab_CicaAmpoule_EN_p1.png",
+            "../data/CicaAmpoule/EN/LubyLab_CicaAmpoule_EN_p2.png",
+            "../data/CicaAmpoule/EN/LubyLab_CicaAmpoule_EN_p3.png"
+          ],
+          "zh": [
+            "../data/CicaAmpoule/CN/LubyLab_CicaAmpoule_ZH_p1.png",
+            "../data/CicaAmpoule/CN/LubyLab_CicaAmpoule_ZH_p2.png",
+            "../data/CicaAmpoule/CN/LubyLab_CicaAmpoule_ZH_p3.png"
+          ],
+          "ja": [
+            "../data/CicaAmpoule/JP/LubyLab_CicaAmpoule_JA_p1.png",
+            "../data/CicaAmpoule/JP/LubyLab_CicaAmpoule_JA_p2.png",
+            "../data/CicaAmpoule/JP/LubyLab_CicaAmpoule_JA_p3.png"
+          ]
+        }
+
       }
     },
     {
@@ -203,8 +233,25 @@
       },
       "images": {
         "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/924b1af6328de.jpg?w=1024",
-        "detail_banners" :{}
+        "detail_banners" :{
+          "en": [
+            "../data/CicaCream/EN/LubyLab_CicaCream_EN_p1.png",
+            "../data/CicaCream/EN/LubyLab_CicaCream_EN_p2.png",
+            "../data/CicaCream/EN/LubyLab_CicaCream_EN_p3.png"
+          ],
+          "zh": [
+            "../data/CicaCream/CN/LubyLab_CicaCream_ZH_p1.png",
+            "../data/CicaCream/CN/LubyLab_CicaCream_ZH_p2.png",
+            "../data/CicaCream/CN/LubyLab_CicaCream_ZH_p3.png"
+          ],
+          "ja": [
+            "../data/CicaCream/JP/LubyLab_CicaCream_JA_p1.png",
+            "../data/CicaCream/JP/LubyLab_CicaCream_JA_p2.png",
+            "../data/CicaCream/JP/LubyLab_CicaCream_JA_p3.png"
+          ]
+
       }
+  }
     },
     {
       "key": "NAD Sculp Matrix",
@@ -256,7 +303,20 @@
       },
       "images": {
         "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/9b7dd3954c96b.jpg?w=1024",
-        "detail_banners" :{}
+        "detail_banners" :{
+          "en": [
+            "../data/NADSculpMatrix/EN/Sculpt_Matrix_Ampoule_EN_p1.png",
+            "../data/NADSculpMatrix/EN/Sculpt_Matrix_Ampoule_EN_p2.png"
+          ],
+          "zh": [
+            "../data/NADSculpMatrix/CN/Sculpt_Matrix_Ampoule_ZH_p1.png",
+            "../data/NADSculpMatrix/CN/Sculpt_Matrix_Ampoule_ZH_p2.png"
+          ],
+          "ja": [
+            "../data/NADSculpMatrix/JP/Sculpt_Matrix_Ampoule_JP_p1.png",
+            "../data/NADSculpMatrix/JP/Sculpt_Matrix_Ampoule_JP_p2.png"
+          ]
+        }
       }
     },
     {
@@ -438,7 +498,20 @@
       },
       "images": {
         "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/39db771337ede.jpg?w=1024",
-        "detail_banners" :{}
+        "detail_banners" :{
+          "en": [
+            "../data/CBall/EN/Crystal_Essence_Powder_Ball_EN_p1.png",
+            "../data/CBall/EN/Crystal_Essence_Powder_Ball_EN_p2.png"
+          ],
+          "zh": [
+            "../data/CBall/CN/Crystal_Essence_Powder_Ball_ZH_p1.png",
+            "../data/CBall/CN/Crystal_Essence_Powder_Ball_ZH_p2.png"
+          ],
+          "ja": [
+            "../data/CBall/JP/Crystal_Essence_Powder_Ball_JP_p1.png",
+            "../data/CBall/JP/Crystal_Essence_Powder_Ball_JP_p2.png"
+          ]
+        }
       }
     },
     {
