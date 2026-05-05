@@ -314,7 +314,23 @@
       },
       "images": {
         "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/724a8b867571e.jpg?w=1024",
-        "detail_banners" :{}
+        "detail_banners" :{
+          "en": [
+            "../data/PorePeelingPad/EN/LubyLab_PorePad_EN_p1.png",
+            "../data/PorePeelingPad/EN/LubyLab_PorePad_EN_p2.png",
+            "../data/PorePeelingPad/EN/LubyLab_PorePad_EN_p3.png"
+          ],
+          "zh": [
+            "../data/PorePeelingPad/CN/LubyLab_PorePad_ZH_p1.png",
+            "../data/PorePeelingPad/CN/LubyLab_PorePad_ZH_p2.png",
+            "../data/PorePeelingPad/CN/LubyLab_PorePad_ZH_p3.png"
+          ],
+          "ja": [
+            "../data/PorePeelingPad/JP/LubyLab_PorePad_JA_p1.png",
+            "../data/PorePeelingPad/JP/LubyLab_PorePad_JA_p2.png",
+            "../data/PorePeelingPad/JP/LubyLab_PorePad_JA_p3.png"
+          ]
+        }
       }
     },
     {
@@ -482,7 +498,23 @@
       },
       "images": {
         "main": "https://cdn-optimized.imweb.me/thumbnail/20260409/a82556fdc138b.jpg?w=1024",
-        "detail_banners" :{}
+        "detail_banners" :{
+          "en": [
+            "../data/GlutathionePowderAmpoule/EN/LubyLab_Glutathione_EN_p1.png",
+            "../data/GlutathionePowderAmpoule/EN/LubyLab_Glutathione_EN_p2.png",
+            "../data/GlutathionePowderAmpoule/EN/LubyLab_Glutathione_EN_p3.png"
+          ],
+          "zh": [
+            "../data/GlutathionePowderAmpoule/CN/LubyLab_Glutathione_ZH_p1.png",
+            "../data/GlutathionePowderAmpoule/CN/LubyLab_Glutathione_ZH_p2.png",
+            "../data/GlutathionePowderAmpoule/CN/LubyLab_Glutathione_ZH_p3.png"
+          ],
+          "ja": [
+            "../data/GlutathionePowderAmpoule/JP/LubyLab_Glutathione_JA_p1.png",
+            "../data/GlutathionePowderAmpoule/JP/LubyLab_Glutathione_JA_p2.png",
+            "../data/GlutathionePowderAmpoule/JP/LubyLab_Glutathione_JA_p3.png"
+          ]
+        }
       }
     },
     {
