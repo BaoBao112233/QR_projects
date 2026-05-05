@@ -112,8 +112,8 @@ JA = {
 
 
 def add_ja(field, ja_value):
-    """If field is a {kr,en,zh} dict, add ja key."""
-    if isinstance(field, dict) and ("kr" in field or "en" in field or "zh" in field):
+    """If field is a multilingual dict, add ja key."""
+    if isinstance(field, dict) and ("en" in field or "zh" in field):
         field["ja"] = ja_value
         return field
     return field

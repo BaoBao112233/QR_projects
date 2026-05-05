@@ -68,7 +68,7 @@ function formatRange(v, code) {{
 function priceLabel(price) {{
   const loc = LUBY.getLocale() || LUBY.DEFAULT_LOCALE;
   const krw = parseKRW(price);
-  if (!krw || loc === 'kr') return price;
+  if (!krw) return price;
   if (loc === 'en') return `${{price}} <span class="card-approx">≈ ${{formatRange(krw*FX.USD,'USD')}}</span>`;
   if (loc === 'zh') return `${{price}} <span class="card-approx">≈ ${{formatRange(krw*FX.CNY,'CNY')}}</span>`;
   return price;

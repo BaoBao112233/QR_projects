@@ -1,6 +1,6 @@
 // Locale dictionary + helpers
 const LOCALE_KEY = 'lubylab_locale';
-const SUPPORTED = ['en', 'kr', 'zh', 'ja'];
+const SUPPORTED = ['en', 'zh', 'ja'];
 const DEFAULT_LOCALE = 'en';
 
 const T = {
@@ -8,8 +8,8 @@ const T = {
     pickerTitle: 'Choose your language',
     pickerSub: 'Select a language to view product information',
     langEn: 'English',
-    langKr: '한국어',
     langZh: '中文',
+    langJa: '日本語',
     brandTagline: 'Premium K-Beauty',
     indexTitle: 'LUBYLAB Products',
     indexSub: 'Discover our hero collection',
@@ -32,40 +32,12 @@ const T = {
     soldOut: 'SOLD OUT',
     changeLanguage: 'Language',
   },
-  kr: {
-    pickerTitle: '언어를 선택하세요',
-    pickerSub: '제품 정보를 확인할 언어를 선택해주세요',
-    langEn: 'English',
-    langKr: '한국어',
-    langZh: '中文',
-    brandTagline: '프리미엄 K-뷰티',
-    indexTitle: '루비랩 제품',
-    indexSub: '대표 컬렉션을 만나보세요',
-    backToProducts: '← 전체 제품',
-    price: '가격',
-    points: '포인트 적립예정',
-    status: '상태',
-    category: '카테고리',
-    benefits: '핵심 효능',
-    ingredients: '주요 성분',
-    feature: '특징',
-    description: '제품 설명',
-    shipping: '배송',
-    delivery: '배송 안내',
-    exclusive: '독점 판매',
-    detailHeading: '상품 상세 정보',
-    showMore: '더보기',
-    showLess: '접기',
-    cta: '구매하기',
-    soldOut: '품절',
-    changeLanguage: '언어',
-  },
   zh: {
     pickerTitle: '请选择您的语言',
     pickerSub: '选择语言以查看产品信息',
     langEn: 'English',
-    langKr: '한국어',
     langZh: '中文',
+    langJa: '日本語',
     brandTagline: '高端韩国美妆',
     indexTitle: 'LUBYLAB 产品',
     indexSub: '探索我们的明星系列',
@@ -92,8 +64,8 @@ const T = {
     pickerTitle: '言語を選択してください',
     pickerSub: '商品情報を表示する言語を選択してください',
     langEn: 'English',
-    langKr: '한국어',
     langZh: '中文',
+    langJa: '日本語',
     brandTagline: 'プレミアム K-ビューティー',
     indexTitle: 'LUBYLAB 製品',
     indexSub: '代表的なコレクションをご覧ください',
@@ -118,15 +90,17 @@ const T = {
   }
 };
 
+// In-memory locale only — cleared on every page load so the picker shows again.
+let CURRENT_LOCALE = null;
+
 function getLocale() {
-  const v = localStorage.getItem(LOCALE_KEY);
-  return SUPPORTED.includes(v) ? v : null;
+  return SUPPORTED.includes(CURRENT_LOCALE) ? CURRENT_LOCALE : null;
 }
 
 function setLocale(loc) {
   if (!SUPPORTED.includes(loc)) loc = DEFAULT_LOCALE;
-  localStorage.setItem(LOCALE_KEY, loc);
-  document.documentElement.lang = loc === 'kr' ? 'ko' : (loc === 'zh' ? 'zh-CN' : 'en');
+  CURRENT_LOCALE = loc;
+  document.documentElement.lang = loc === 'zh' ? 'zh-CN' : (loc === 'ja' ? 'ja' : 'en');
 }
 
 function t(key) {
@@ -134,7 +108,7 @@ function t(key) {
   return (T[loc] && T[loc][key]) || T[DEFAULT_LOCALE][key] || key;
 }
 
-// Translate field of shape {kr, en, zh} or array thereof
+// Translate field of shape {en, zh, ja} or array thereof
 function tr(field) {
   if (field == null) return '';
   const loc = getLocale() || DEFAULT_LOCALE;
@@ -143,7 +117,7 @@ function tr(field) {
     return field.map(tr);
   }
   if (typeof field === 'object') {
-    return field[loc] || field.en || field.kr || field.zh || '';
+    return field[loc] || field.en || field.zh || field.ja || '';
   }
   return String(field);
 }
@@ -163,10 +137,6 @@ function ensureLocale() {
           <button class="lang-btn default-tag" data-loc="en">
             <span class="lang-flag">🇺🇸</span>
             <span class="lang-name">English</span>
-          </button>
-          <button class="lang-btn" data-loc="kr">
-            <span class="lang-flag">🇰🇷</span>
-            <span class="lang-name">한국어 (Korean)</span>
           </button>
           <button class="lang-btn" data-loc="zh">
             <span class="lang-flag">🇨🇳</span>
@@ -197,7 +167,6 @@ function renderLangSwitch(container, onChange) {
   container.innerHTML = `
     <div class="lang-switch" role="tablist">
       <button data-loc="en" ${cur === 'en' ? 'class="active"' : ''}>EN</button>
-      <button data-loc="kr" ${cur === 'kr' ? 'class="active"' : ''}>KR</button>
       <button data-loc="zh" ${cur === 'zh' ? 'class="active"' : ''}>中</button>
       <button data-loc="ja" ${cur === 'ja' ? 'class="active"' : ''}>日</button>
     </div>

@@ -36,7 +36,7 @@ function formatRange(value, code) {
 function priceWithApprox(p) {
   const loc = LUBY.getLocale() || LUBY.DEFAULT_LOCALE;
   const krw = parseKRW(p.price);
-  if (!krw || loc === 'kr') return p.price;
+  if (!krw) return p.price;
   if (loc === 'en') {
     return `${p.price} <span class="price-approx">≈ ${formatRange(krw * FX.USD, 'USD')}</span>`;
   }
