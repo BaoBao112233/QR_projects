@@ -3,9 +3,15 @@ Append newly added images in site/data/<product>/<LANG>/ to detail_banners
 in lubylab_products.json. Existing banners are preserved; new images are
 appended in natural sort order.
 """
+import io
 import json
 import re
+import sys
 from pathlib import Path
+
+# Windows console default cp1252 chokes on Korean filenames; force UTF-8.
+if hasattr(sys.stdout, "buffer"):
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 ROOT = Path("d:/Projects/QR_projects")
 JSON_PATH = ROOT / "lubylab_products.json"
