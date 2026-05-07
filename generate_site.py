@@ -88,7 +88,6 @@ document.addEventListener('DOMContentLoaded', async () => {{
       <div class="body">
         <div class="key">${{p.key}}</div>
         <div class="name">${{LUBY.tr(p.name)}}</div>
-        <div class="price">${{priceLabel(p.price)}}</div>
       </div>
     </a>
   `).join('');
