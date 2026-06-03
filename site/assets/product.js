@@ -79,7 +79,7 @@ function render(p) {
     <section class="hero">
       <div class="gallery">
         <div class="gallery-main">
-          <img src="${heroImg}" alt="${LUBY.tr(p.name)}" />
+          <img src="${heroImg}" alt="${LUBY.tr(p.name)}" fetchpriority="high" decoding="async" />
         </div>
       </div>
 
@@ -94,7 +94,7 @@ function render(p) {
       <section class="detail-section">
         <h2>${LUBY.t('detailHeading')}</h2>
         <div class="detail-banners" id="detail-banners">
-          ${detailBanners.slice(0, 8).map(u => `<img src="${u}" loading="lazy" alt="">`).join('')}
+          ${detailBanners.slice(0, 8).map(u => `<img src="${u}" loading="lazy" decoding="async" alt="">`).join('')}
         </div>
         ${detailBanners.length > 8 ? `
           <button class="show-more" id="show-more-btn">${LUBY.t('showMore')}</button>` : ''}
@@ -110,7 +110,7 @@ function render(p) {
       if (!expanded) {
         const rest = detailBanners.slice(8);
         container.insertAdjacentHTML('beforeend',
-          rest.map(u => `<img src="${u}" loading="lazy" alt="">`).join(''));
+          rest.map(u => `<img src="${u}" loading="lazy" decoding="async" alt="">`).join(''));
         showMoreBtn.textContent = LUBY.t('showLess');
         expanded = true;
       } else {

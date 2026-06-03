@@ -1,0 +1,30 @@
+# --- Production static server for the LUBYLAB site (Caddy v2) ---
+# Why Caddy/nginx instead of `python -m http.server`:
+#   * Streams files in fixed-size chunks -> RAM stays flat no matter how many
+#     concurrent visitors (the python/node dev servers buffer & block -> OOM).
+#   * Adds long-lived caching so returning visitors don't re-download images.
+#   * Auto HTTPS + gzip/zstd for the HTML/JS (images are already compressed).
+#
+# Run:  caddy run --config ./Caddyfile        (from the `site/` folder)
+# Or :  caddy start --config ./Caddyfile      (background)
+
+# Replace with your real domain. Use `:80` for plain HTTP / behind a load balancer.
+your-domain.com {
+    root * .
+    encode zstd gzip
+    file_server {
+        precompressed br gzip
+    }
+
+    # Images/fonts: content rarely changes -> cache hard for a year.
+    @assets path /data/* /assets/*.png /assets/*.webp /logo/*
+    header @assets Cache-Control "public, max-age=31536000, immutable"
+
+    # CSS/JS: cache a day (bump filename or query when you redeploy).
+    @code path *.css *.js
+    header @code Cache-Control "public, max-age=86400"
+
+    # HTML: always revalidate so content updates show immediately.
+    @html path *.html /
+    header @html Cache-Control "public, max-age=0, must-revalidate"
+}
